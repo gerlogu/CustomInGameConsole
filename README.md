@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)</br>
 Create your custom commands easily and let user call them even in a Release Build with this new feature!
 
-![CustomInGameConsole](https://user-images.githubusercontent.com/55363746/180664416-6b81f884-dffd-4a70-b062-a0a4e242c102.png)
+[![CustomInGameConsole](https://user-images.githubusercontent.com/55363746/180664416-6b81f884-dffd-4a70-b062-a0a4e242c102.png)](https://www.youtube.com/watch?v=d34b0rxD5-o)
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
@@ -15,8 +15,6 @@ Create your custom commands easily and let user call them even in a Release Buil
 ### 📚 Overview
 
 This Custom Console includes several Tasks and Functions that allow you to create your own commands. If you need help in order to include the project assets into your own project, read the [User's Manual](https://gerlogu.com/wp-content/uploads/2022/04/Custom-In-Game-Console-Users-Manual.pdf).
-
-![Photo-2](https://user-images.githubusercontent.com/55363746/180664452-feb5ee18-db18-49e4-ba6a-79af60c0d03a.png)
 
 ### 📣 Content
 
@@ -77,3 +75,11 @@ Locomotion is not included.
 
 **Important/Additional Notes:** Contact me and I will answer you and include your question into the User Manual.
 
+## Images
+
+![IMG_2](https://user-images.githubusercontent.com/55363746/180664546-cd90320f-5415-484e-9189-1cb544b6ecbb.png)
+![IMG_1](https://user-images.githubusercontent.com/55363746/180664556-283e4bac-957b-4575-bc71-014ef0826eee.png)
+![IMG_3](https://user-images.githubusercontent.com/55363746/180664548-23055d22-af79-479b-8fa0-6be89bfc2e35.png)
+![IMG_4](https://user-images.githubusercontent.com/55363746/180664549-2c417906-e1eb-478d-b3c8-f11fd0eec8bf.png)
+![IMG_5](https://user-images.githubusercontent.com/55363746/180664551-1e160aa9-6427-42a0-93d4-dc0276616a41.png)
+![IMG_6](https://user-images.githubusercontent.com/55363746/180664553-0260fb4c-d82f-402a-955b-f872384c98dd.png)
