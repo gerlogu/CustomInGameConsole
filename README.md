@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.2-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/CustomInGameConsole/releases/tag/v1.0.2)</br>
 Create your custom commands easily and let user call them even in a Release Build with this new feature!
 
-[![CustomInGameConsole](https://user-images.githubusercontent.com/55363746/180664416-6b81f884-dffd-4a70-b062-a0a4e242c102.png)](https://www.youtube.com/watch?v=d34b0rxD5-o)
+[![CustomInGameConsole](https://user-images.githubusercontent.com/55363746/221379544-3a735ccf-77e4-4dee-baeb-be77a3d4a74b.png)](https://www.youtube.com/watch?v=d34b0rxD5-o)
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
