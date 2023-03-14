@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/github/stars/gerlogu/CustomInGameConsole?style=social)</br>
 Create your custom commands easily and let user call them even in a Release Build with this new feature!
 
-https://user-images.githubusercontent.com/55363746/225156683-b56de289-7465-40ce-8dd4-5d382b591985.mp4
+https://user-images.githubusercontent.com/55363746/225157015-74f2db4e-5206-4d0b-ba2c-762629ace995.mp4
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
