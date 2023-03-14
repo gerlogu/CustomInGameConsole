@@ -49,7 +49,7 @@ Locomotion is not included.
 
 ## Trailer
 
-https://user-images.githubusercontent.com/55363746/225147819-2fa93216-76cb-4dc3-a6c4-833ef59dba34.mp4
+https://user-images.githubusercontent.com/55363746/225149144-674ad7e0-6061-44a3-864a-f0e024d3d8a6.mp4
 
 ## Technical Information
 
