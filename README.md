@@ -1,7 +1,7 @@
 # Custom In Game Console
 [![Version](https://img.shields.io/badge/Version-1.0.2-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/CustomInGameConsole/releases/tag/v1.0.2)
-![Version](https://img.shields.io/badge/Blueprints-0086d9?style=flat)
-![Version](https://img.shields.io/github/stars/gerlogu/CustomInGameConsole?style=social)</br>
+![Asset Type](https://img.shields.io/badge/Blueprints-0086d9?style=flat)
+![Asset Stars](https://img.shields.io/github/stars/gerlogu/CustomInGameConsole?style=social)</br>
 Create your custom commands easily and let user call them even in a Release Build with this new feature!
 
 https://user-images.githubusercontent.com/55363746/225157015-74f2db4e-5206-4d0b-ba2c-762629ace995.mp4
