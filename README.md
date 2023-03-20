@@ -6,7 +6,7 @@ Create your custom commands easily and let user call them even in a Release Buil
 
 https://user-images.githubusercontent.com/55363746/225157015-74f2db4e-5206-4d0b-ba2c-762629ace995.mp4
 
-##### <div align="center">If you find the asset useful, please support it by giving a "★ Star" to the repository, thank you!</div>
+##### <div align="center">If you find this asset useful, please support it by giving a "★ Star" to the repository, thank you!</div>
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
